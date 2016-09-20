@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">p3jaysonl</string>
+    <string name="strStartTxt">Play Tic-Tac-Toe: O\'s Turn!</string>
+    <string name="strNewBtn">New Game</string>
+    <string name="strLogBtn">Log</string>
+    <string name="strXTurn">X\'s Turn</string>
+    <string name="strOTurn">O\'s Turn</string>
+    <string name="strXWin">Game Over: X Wins!</string>
+    <string name="strOWin">Game Over: O Wins!</string>
+    <string name="strTieGame">Game Over: TIE - No Winner!!!</string>
+    <string name="strNoLog">No Log Activity</string>
+    <string name="strWinner">Winner</string>
+</resources>
